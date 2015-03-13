@@ -1,0 +1,3 @@
+#### Why are we making this game? ####
+
+> As a class we decided to make this game with the purpose of challenging ourselves to do something that has never been done before. In the name of education we undertook the task to learn as much new information as is necessary to create a full-fledged game from scratch. We are here to make our mark on the video gaming industry's history books by creating a game unlike any other, one that analyzes the player and can make accurate predictions about their tendencies. Having very a limited amount of industry-standard game creating experience is an obvious hindrance to our team, but we stake our reputation as a class on the confidence that we will be able to overcome our weaknesses.

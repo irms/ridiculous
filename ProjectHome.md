@@ -1,0 +1,1 @@
+You begin the game as a flamingo who has overheard that his zoo is being sold along with all the animals in it.  Using the talents of other zoomates, you must find your way out of the ill fated facility before you and your friends are sold for pelt money.
